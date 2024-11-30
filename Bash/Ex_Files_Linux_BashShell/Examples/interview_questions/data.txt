@@ -1,0 +1,3 @@
+John Doe|25|Engineer 
+Jane Smith|30|Designer 
+Michael Johnson|28|Manager 
